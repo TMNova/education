@@ -44,6 +44,7 @@ public class Test {
     /**
      * Изображение
      */
+    @Lob
     private String img;
 
     /**
